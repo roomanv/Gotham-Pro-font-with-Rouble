@@ -1,0 +1,12 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "GothamProRMedium";
+  src: url("./fonts/GothamProRMedium.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/GothamProRMedium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/GothamProRMedium.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/GothamProRMedium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/GothamProRMedium.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/GothamProRMedium.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
